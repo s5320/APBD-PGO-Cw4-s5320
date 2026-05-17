@@ -1,5 +1,5 @@
 public class Main {
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
         ZespolProjektowy zespol = new ZespolProjektowy("Campus App");
 
         // Referencje typu Pracownik wskazujące na obiekty potomne – polimorfizm
